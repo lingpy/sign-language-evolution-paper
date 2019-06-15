@@ -1,0 +1,17 @@
+# File description
+
+This subfolder includes the raw output files for the graphs shown in the main text and supplementary figures
+(inferred with and optimized for SplitsTree)
+
+- `*`.NN.*.dist -- Splits-NEXUS-formatted neighbour-nets, these files include the original distance matrix
+  * `*`.all.      -- Full taxon set
+  * `*`.pre1840.  -- Taxon-pruned subset, historical MAs published prior to 1840
+  * `*`.1840ff.   -- Taxon-pruned subset, historical MAs after 1840, including youngest MA from the pre1840 set 
+  * `*`.post1950. -- Taxon-pruned subset, MAs of contemporary SLs and historical versions used after 1950
+- `*`.BS.nxs -- Splits-NEXUS-formatted bootstrap consensus networks, these files include a SPLITS block
+          with all splits found in more than 15% of the 10,000 BS replicates (defined in the TREES block)
+  * `*`.ML. -- bootstrapping under maximum likelihood as optimality criterion
+  * `*`.NJ. -- under least-squares optimality criterion with neighbour-joining
+  * `*`.MP.  -- under maximum parsimony criterion
+
+Members of main lineages discussed in the text are accordingly colour-coded, see AbbreviationGuide.csv for used taxon abbreviations.  

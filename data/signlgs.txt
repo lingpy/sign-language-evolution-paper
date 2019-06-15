@@ -1,0 +1,42 @@
+Native Name, Abbreviation, English Name, ISO 639-3,Glottolog
+American Sign Language, ASL, American Sign Language, ase, amer1248
+British Sign Language, BSL, British Sign Language, bfi, brit1235
+Ceský Znakový Jazyk, CzSL, Czech Sign Language, cse, czec1253
+Deutsche Gebärdensprache, DGS, German Sign Language, gsg, germ1281
+Eesti viipekeel, EVK, Estonian Sign Language, eso, esto1238
+Indian Sign Language, ISL/IPSL, Indian Sign Language, ins, indi1237
+Langue des signes française, LSF, French Sign Language, fsl, fren1243
+Latviešu zīmju valodas, LSL, Latvian Sign Language, lsl, latv1245
+Lengua de Signos Española, LSE, Spanish Sign Language, ssp, span1263
+Lietuvių gestų kalba, LGK/LtSL, Lithuanian Sign Language, lls, lith1236
+Língua gestual portuguesa, LGP, Portuguese Sign Language, psr, port1277
+Polski Język Migowy, PJM, Polish Sign Language, pso, poli1259
+Svenskt teckenspråk, STS/SwedSL, Swedish Sign Language, swl, swed1236
+Türk İşaret Dili, TİD, Turkish Sign Language, tsm, turk1288
+Österreichische Gebärdensprache, ÖGS, Austrian Sign Language, asq, aust1252
+Ελληνική νοηματική γλώσσα, ΕΝΓ, Greek Sign Language, gss, gree1271
+български жестомимичен език, BŽE, Bulgarian Sign Language, bqn, bulg1240
+Русский Жестовый Язык, РЖЯ, Russian Sign Language, rsl, russ1255
+Izaberi jezik, HZJ, Croatian Sign Language, csq, croa1242
+Íslenskt Táknmál, ÍTM, Icelandic Sign Language, icl, icel1236
+Lingua dei Segni Italiana, LIS, Italian Sign Language, ise, ital1275
+Libras, LSB, Brazilian Sign Language, bzs, braz1236
+Lengua de Señas Mexicana, LSM, Mexican Sign Language, mfs, mexi1237
+پاکستانی اشارتی زبان, PSL, Pakistan Sign Language, pks, paki1242
+Українська жестова мова, УЖМ ,Ukrainian Sign Language, ukl, ukra1235
+Auslan, Auslan, Australian Sign Language, asf, aust1271
+Dansk Tegnsprog, DTS, Danish Sign Language, dsl, dani1246
+Norsk tegnspråk, NTS, Norwegian Sign Language, nsl, norw1261
+Suomalainen viittomakieli, FinSL, Finnish Sign Language, fse, finn1310
+Vlaamse Gebarentaal, VGT, Flemish Sign Language, vgt, vlaa1235
+Langue des signes de Belgique Francophone, LSFB, French Belgian Sign Language, sfb, lang1248
+Nederlandse Gebarentaal, NGT, Sign Language of the Netherlands, dse, dutc1253
+Teanga Chomharthaíochta na hÉireann, ISL, Irish Sign Language, isg, iris1235
+International Sign, IS, International Sign, ils, inte1259
+Magyar Jelnyelv, MJ, Hungarian Sign Language, hsh, hung1263
+Llengua de signes catalana, LSC, Catalan Sign Language, csc, cata1287
+New Zealand Sign Language, NZSL, New Zealand Sign Language, nzs , newz1236
+Gjuha e Shenjave Shqipe, AlbSL, Albanian Sign Language, sqk, alba1271
+Langue des signes québécoise, LSQ, Quebec Sign Language, fcs, queb1245
+زبان اشاره‌ی افغانی, ZEA, Afghan Sign Language, afg, afgh1239
+لغة الإشارة الأردنية, LIU, Jordanian Sign Language, jos, jord1238

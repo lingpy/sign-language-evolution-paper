@@ -1,0 +1,3 @@
+lingpy
+lexibase
+unidecode

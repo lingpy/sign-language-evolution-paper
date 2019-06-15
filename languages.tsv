@@ -1,0 +1,77 @@
+edictor name	abbreviation	english name	latitude	longitude	id
+Afghan_SL	ZEA	Afghan Sign Language	34.434167	70.447778	23
+Albanian_SL	AlbSL	Albanian Sign Language	41.33	19.82	24
+American_1821	ASL_1821	American 1821	40.73061	-73.935242	14
+American_1886	ASL_1886	American 1886	38.895	-77.0366	25
+American_1918	ASL_1918	American 1918	41.58783098	-93.61916419	26
+American_SL	ASL	American Sign Language	33.8117	-81.6121	27
+Australian_SL	Auslan	Australian Sign Language	-30	145	18
+Austrian_1786	GS_1786	Austrian 1786	48.210033	16.363449	5
+Austrian_1823	GS_1823	Austrian 1823	48.210033	16.363449	28
+Austrian_1839	GS_1839	Austrian 1839	48.210033	16.363449	29
+Austrian_SL	GS	Austrian Sign Language	48.1197	16.225	30
+Bonet_1620	B_1620	Bonet 1620	40.416775	-3.70379	2
+Brazilian_1875	LSB_1875	Brazilian 1875	-22.909897	-43.185348	21
+Brazilian_SL	LSB	Brazilian Sign Language	-15.5	-48	31
+British_SL	BSL	British Sign Language	51.6688	-0.4431	4
+Bulgarian_SL	BZE	Bulgarian Sign Language	42.7918	25.0026	32
+Catalan_SL	LSC	Catalan Sign Language	41.63	-1.97	33
+Croatian_SL	HZJ	Croatian Sign Language	45.5	16.8	34
+Czech_SL	CzSL	Czech Sign Language	50.01	14.48	35
+Danish_1808	DTS_1808	Danish 1808	55.676098	12.568337	12
+Danish_1871	DTS_1871	Danish 1871	55.676098	12.568337	36
+Danish_1907	DTS_1907	Danish 1907	55.676098	12.568337	37
+Danish_1926	DTS_1926	Danish 1926	55.676098	12.568337	38
+Danish_1967	DTS_1967	Danish 1967	55.676098	12.568337	39
+Danish_SL	DTS	Danish Sign Language	55.83	12.32	40
+Estonian_1988	EVK_1988	Estonian 1988	59.436962	24.753574	41
+Estonian_SL	EVK	Estonian Sign Language	58.95	24.57	42
+Finnish_SL	FinSL	Finnish Sign Language	60.66	25.07	43
+Flemish_SL	VGT	Flemish Sign Language	50.8	4.31	44
+French_1800	LSF_1800	French 1800	48.845006	2.341291	3
+French_1803	LSF_1803	French 1803	48.845006	2.341291	45
+French_1815	LSF_1815	French 1815	48.845006	2.341291	46
+French_1856	LSF_1856	French 1856	48.845006	2.341291	47
+French_SL	LSF	French Sign Language	47	3	48
+French-Belgian_SL	LSFB	French-Belgian Sign Language	50.8	4.31	49
+German_1820	DGS_1820	German 1820	48.79947	9.79809	6
+German_1909	DGS_1909	German 1909	51.343479	12.387772	50
+German_1916	DGS_1916	German 1916	52.520008	13.404954	51
+German_SL	DGS	German Sign Language	50.82	7.3	52
+Greek_SL	ENG	Greek Sign Language	38.05	23.38	53
+Hungary_1827	MJ_1827	Hungarian 1827	47.77591	19.13612	9
+Icelandic_1857	ITM_1857	Icelandic 1857	65.68353	-18.0878	19
+Icelandic_SL	ITM	Icelandic Sign Language	64.17	-20.27	54
+Indian_SL	IndSL	Indian Sign Languaage	27.52	79.68	22
+International_MA	IS	International Sign	49.74	-30.08	55
+Irish_SL	IrSL	Irish Sign Language	53.31	-6.37	56
+Italian_1897	LIS_1897	Italian 1897	45.464211	9.191383	7
+Italian_SL	LIS	Italian Sign Language	42.73	12.43	57
+Jordanian_SL	LIU	Jordanian Sign Language	31.82	36.08	58
+Latvian_SL	LSL	Latvian Sign Language	56.93	24.49	59
+Lithuanian_SL	LGK	Lithuainian Sign Language	55.25	23.88	60
+Mexican_SL	LSM	Mexican Sign Language	19.75	-98.5	61
+NewZealand_SL	NZSL	New Zealand Sign Language	-39.29	175.77	20
+Norwegian_1893	NTS_1893	Norwegian 1893	59.911491	10.757933	17
+Norwegian_1900	NTS_1900	Norwegian 1900	63.446827	10.421906	62
+Norwegian_1955	NTS_1955	Norwegian 1955	63.446827	10.421906	63
+Norwegian_SL	NTS	Norwegian Sign Language	60.77	10.24	64
+Pakistan_SL	PSL	Pakistan Sign Language	28.07	67.88	65
+Polish_1879	PJM_1879	Polish 1879	52.237049	21.017532	15
+Polish_SL	PJM	Polish Sign Language	52	20.76	66
+Portuguese_SL	LGP	Portuguese Sign Language	38.55	-8.53	16
+Quebec_SL	LSQ	Quebec Sign Language	46	-74.87	67
+Russian_1835	RZhIa_1835	Russian 1835	59.93863	30.31413	11
+Russian_SL	RZhIa	Russian Sign Language	56	44	68
+Dutch_1790	NGT_1790	Dutch 1790	53.2193835	6.5665018	8
+Dutch_1820	NGT_1820	Dutch 1820	53.2193835	6.5665018	69
+Dutch_SL	NGT	Dutch Sign Language	52.13	4.91	70
+Spanish_1815	LSE_1815	Spanish 1815	40.416775	-3.70379	10
+Spanish_1845	LSE_1845	Spanish 1845	40.416775	-3.70379	71
+Spanish_1859	LSE_1859	Spanish 1859	40.416775	-3.70379	72
+Spanish_SL	LSE	Spanish Sign Language	40.0314	-3.70738	73
+Swedish_1866	STS_1866	Swedish 1866	59.334591	18.06324	13
+Swedish_SL	STS	Swedish Sign Language	58.93	16.11	74
+Turkish_SL	TID	Turkish Sign Language	41.03	28.86	75
+Ukrainian_SL	UzhM	Ukrainian Sign Language	50.41	30.55	76
+Yebra_1593	Y_1593	Yebra 1593	40.416775	-3.70379	1
