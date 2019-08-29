@@ -23,7 +23,11 @@ The folder `data` provides instructions on converting the data to Nexus format.
 
 ## Phylogenetic analyses
 
-The folders `matrix` and `networks` provide information on the phylogenetic analyses we carried out. The folder `analysis` provides the manual phylogenetic character mapping analysis.
+The folders `matrices` and `networks` provide information on the phylogenetic analyses we carried out. The folder `analysis` provides the manual phylogenetic character mapping analysis.
+
+## Detailed character analysis
+
+The detailed character analysis discussed in the main text and the appendix can be found in the folder `analysis`, sheet `lists.xlsx`.
 
 
 
