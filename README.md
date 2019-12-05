@@ -2,7 +2,7 @@
 
 Original study:
 
-> Power, Justin; Grimm, Guido; List, Johann-Mattis (2019): Evolutionary dynamics in the dispersal of sign languages. Unpublished manuscript, not peer-reviewed.
+> Power, Justin M.; Grimm, Guido; and List, Johann-Mattis (2019): Evolutionary dynamics in the dispersal of sign languages. Royal Society Open Science. DOI: 10.1098/rsos.191100
 
 This package contains the supplementary material needed to replicate the studies reported in
 our study. For a list of all languages, see the file `languages.tsv`.
@@ -15,7 +15,10 @@ To access the database directly online, in the EDICTOR too, just open the follow
 http://edictor.digling.org/?file=signalphabets&remote_dbase=signalphabets
 ```
 
-The folder `data` contains a dump of the data in sqlite-format, and the folder `cldf` provides the data in cldf-format.
+The folder `data` contains a dump of the data in sqlite-format. The data has also been archived in CLDF format with [Zenodo](https://zenodo.org):
+
+[![DOI](https://zenodo.org/badge/191782233.svg)](https://zenodo.org/badge/latestdoi/191782233)
+
 
 ## Conversion to Nexus Format
 
